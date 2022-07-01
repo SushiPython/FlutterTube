@@ -80,33 +80,62 @@ class _MyHomePageState extends State<MyHomePage> {
 
     var items = jsonDecode(response2.toString())["onResponseReceivedActions"][0]
         ["appendContinuationItemsAction"]["continuationItems"];
-    var titles = [];
+    var videos = [];
     for (var item in items) {
       if (item.containsKey("richItemRenderer")) {
         var title = item["richItemRenderer"]["content"]["videoRenderer"]
             ["title"]["runs"][0]["text"];
-        titles.add(title);
-        developer.log(title, name: "video title");
+        var thumbnail = item["richItemRenderer"]["content"]["videoRenderer"]
+            ["thumbnail"]["thumbnails"][0]["url"];
+        var author = item["richItemRenderer"]["content"]["videoRenderer"]
+            ["longBylineText"]["runs"][0]["text"];
+        var videoId = item["richItemRenderer"]["content"]["videoRenderer"]
+            ["videoId"];
+        var video = {
+          "title": title,
+          "thumbnail": thumbnail,
+          "author": author,
+          "videoId": videoId
+        };
+        videos.add(video);
+        developer.log(video.toString(), name: "video title");
       }
-    }
+        
+      }
     ;
 
-    var outputString = "";
-    for (var title in titles) {
-      outputString += title + "\n\n\n\n";
+    var videoCardOutput = <Widget>[];
+    for (var video in videos) {
+      // add title to widget
+      videoCardOutput.add(
+            Card(
+        child: ListTile(
+            title: Text(video["title"]),
+            subtitle: Text(video["author"]),
+            leading: CircleAvatar(
+                backgroundImage: NetworkImage(
+                    video["thumbnail"])),
+            trailing: Icon(Icons.star))),
+      );
     }
 
     // and get the videoIds
-    return outputString;
+    return videoCardOutput;
   };
 
   void _incrementCounter() {
     fetchKey().then((value) => {
           setState(() {
-            _text = value.toString();
+            _videoCards = value;
           })
         });
   }
+
+  var _videoCards = <Widget>[
+    Text(
+      'Loading Videos...',
+    ),
+  ];
 
   @override
   Widget build(BuildContext context) {
@@ -117,15 +146,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
         child: ListView(
           //mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            const Text( 
-              'FlutterTube videos',
-            ),
-            Text(
-              _text,
-              style: Theme.of(context).textTheme.headline4,
-            ),
-          ],
+          children: _videoCards,
         ),
       ),
       floatingActionButton: FloatingActionButton(
