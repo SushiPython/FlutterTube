@@ -80,17 +80,24 @@ class _MyHomePageState extends State<MyHomePage> {
 
     var items = jsonDecode(response2.toString())["onResponseReceivedActions"][0]
         ["appendContinuationItemsAction"]["continuationItems"];
+    var titles = [];
     for (var item in items) {
       if (item.containsKey("richItemRenderer")) {
         var title = item["richItemRenderer"]["content"]["videoRenderer"]
             ["title"]["runs"][0]["text"];
+        titles.add(title);
         developer.log(title, name: "video title");
       }
     }
     ;
 
+    var outputString = "";
+    for (var title in titles) {
+      outputString += title + "\n\n\n\n";
+    }
+
     // and get the videoIds
-    return response2.toString();
+    return outputString;
   };
 
   void _incrementCounter() {
@@ -108,11 +115,11 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
       ),
       body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
+        child: ListView(
+          //mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text(
-              'success! generated youtube api key:',
+            const Text( 
+              'FlutterTube videos',
             ),
             Text(
               _text,
