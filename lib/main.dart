@@ -108,14 +108,24 @@ class _MyHomePageState extends State<MyHomePage> {
     for (var video in videos) {
       // add title to widget
       videoCardOutput.add(
-            Card(
-        child: ListTile(
-            title: Text(video["title"]),
-            subtitle: Text(video["author"]),
-            leading: CircleAvatar(
-                backgroundImage: NetworkImage(
-                    video["thumbnail"])),
-            trailing: Icon(Icons.star))),
+                  Card(
+            clipBehavior: Clip.antiAlias,
+            child: Column(
+              children: [
+                Image.network(video["thumbnail"]),
+                ListTile(
+                  leading: CircleAvatar(
+                    backgroundImage: NetworkImage(video["author"]),
+                  ),
+                  title: Text(video["title"]),
+                  subtitle: Text(
+                    video["author"],
+                    style: TextStyle(color: Colors.black.withOpacity(0.6)),
+                  ),
+                ),
+              ],
+            ),
+          ),
       );
     }
 
