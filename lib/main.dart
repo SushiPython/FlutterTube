@@ -78,12 +78,16 @@ class _MyHomePageState extends State<MyHomePage> {
             '{"context":{"client":{"hl":"en","gl":"US","remoteHost":"1.1.1.1","deviceMake":"Apple","deviceModel":"","visitorData":"CgtjTWFfTGs0YmxUZyiAt_eVBg%3D%3D","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36,gzip(gfe)","clientName":"WEB","clientVersion":"2.20220630.01.00","osName":"Macintosh","osVersion":"10_15_7","originalUrl":"https://www.youtube.com/","screenPixelDensity":2,"platform":"DESKTOP","clientFormFactor":"UNKNOWN_FORM_FACTOR","configInfo":{"appInstallData":"CIC395UGEJje_RIQz_L9EhC4i64FEK6ergUQt8utBRDUg64FENi-rQUQkfj8Eg%3D%3D"},"screenDensityFloat":2,"userInterfaceTheme":"USER_INTERFACE_THEME_DARK","timeZone":"America/Chicago","browserName":"Chrome","browserVersion":"103.0.0.0","screenWidthPoints":851,"screenHeightPoints":687,"utcOffsetMinutes":-300,"connectionType":"CONN_CELLULAR_4G","memoryTotalKbytes":"8000000","mainAppWebInfo":{"graftUrl":"https://www.youtube.com/","pwaInstallabilityStatus":"PWA_INSTALLABILITY_STATUS_UNKNOWN","webDisplayMode":"WEB_DISPLAY_MODE_BROWSER","isWebNativeShareAvailable":false}},"user":{"lockedSafetyMode":false},"request":{"useSsl":true,"internalExperimentFlags":[],"consistencyTokenJars":[]},"clickTracking":{"clickTrackingParams":"CBoQ8eIEIhMIipi89NfV-AIVTx2ECh1qNQhu"},"adSignalsInfo":{"params":[{"key":"dt","value":"1656609664307"},{"key":"flash","value":"0"},{"key":"frm","value":"0"},{"key":"u_tz","value":"-300"},{"key":"u_his","value":"2"},{"key":"u_h","value":"900"},{"key":"u_w","value":"1440"},{"key":"u_ah","value":"798"},{"key":"u_aw","value":"1440"},{"key":"u_cd","value":"30"},{"key":"bc","value":"31"},{"key":"bih","value":"687"},{"key":"biw","value":"835"},{"key":"brdim","value":"0,25,0,25,1440,25,1440,798,851,687"},{"key":"vis","value":"1"},{"key":"wgl","value":"true"},{"key":"ca_type","value":"image"}]}},"continuation":"4qmFsgKFAxIPRkV3aGF0X3RvX3dhdGNoGtQCQ0JoNi1nRkhUa3d4TVdaVVdERm1aME5OWjNOSmNrcGhUbXMyV0cxdVkxUnZRVlp3ZEVOdGMwdEhXR3d3V0ROQ2FGb3lWbVpqTWpWb1kwaE9iMkl6VW1aamJWWnVZVmM1ZFZsWGQxTklNVlUwVW14YVlWcEZhSGRPUjFwdVZqRkdSR0ZXVG5GbFIzaERWVlZvTWsxNlRqUlhiVVpJWlVkallVeFJRVUZhVnpSQlFWWldWRUZCUmxaVmQwRkNRVVZhUm1ReWFHaGtSamt3WWpFNU0xbFlVbXBoUVVGQ1FVRkZRa0ZCUVVKQlFVVkJRVUZGUWtGSFNYTkRRVUZUUlROQ2FGb3lWbVpqTWpWb1kwaE9iMkl6VW1aa1J6bHlXbGMwWVVWM2FVdHRUSG93TVRsWU5FRm9WbEJJV1ZGTFNGZHZNVU5ITnpadVRXVTVRMUZKU1VkUpoCGmJyb3dzZS1mZWVkRkV3aGF0X3RvX3dhdGNo"}',
         options: Options(headers: {"Content-Type": "application/json"}));
 
-    var title = jsonDecode(response2.toString())["onResponseReceivedActions"]
-        [0]["appendContinuationItemsAction"]["continuationItems"]
-        [0]["richItemRenderer"]["content"]["videoRenderer"]["title"]
-            ["runs"]
-        [0]["text"];
-    developer.log(title, name: "Response2");
+    var items = jsonDecode(response2.toString())["onResponseReceivedActions"][0]
+        ["appendContinuationItemsAction"]["continuationItems"];
+    for (var item in items) {
+      if (item.containsKey("richItemRenderer")) {
+        var title = item["richItemRenderer"]["content"]["videoRenderer"]
+            ["title"]["runs"][0]["text"];
+        developer.log(title, name: "video title");
+      }
+    }
+    ;
 
     // and get the videoIds
     return response2.toString();
