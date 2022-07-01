@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-my_values-my.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-zh-rCN_values-zh-rCN.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-my/values-my.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-zh-rCN/values-zh-rCN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-el_values-el.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-sk_values-sk.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-el/values-el.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-sk/values-sk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -31,10 +31,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-ur_values-ur.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-bg_values-bg.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ur/values-ur.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-bg/values-bg.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -46,25 +46,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-eu_values-eu.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-eu/values-eu.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-night-v8_values-night-v8.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -85,10 +70,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-fa_values-fa.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-tr_values-tr.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-fa/values-fa.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-tr/values-tr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -100,10 +85,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-mn_values-mn.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-pt-rBR_values-pt-rBR.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-mn/values-mn.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-pt-rBR/values-pt-rBR.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -115,37 +100,7 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-nl_values-nl.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-nl/values-nl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-sk_values-sk.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-sk/values-sk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-ar_values-ar.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-ar_values-ar.arsc.flat",
             "map": [
                 {
                     "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ar/values-ar.xml",
@@ -160,7 +115,188 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-ro_values-ro.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,237,304,368,484,610,736,864,1036",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "117,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "168,232,299,363,479,605,731,859,1031,1383"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-mn/values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ml/values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-ro_values-ro.arsc.flat",
             "map": [
                 {
                     "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ro/values-ro.xml",
@@ -175,7 +311,157 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-am_values-am.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-am_values-am.arsc.flat",
             "map": [
                 {
                     "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-am/values-am.xml",
@@ -190,10 +476,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-pl_values-pl.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-en-rAU_values-en-rAU.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-pl/values-pl.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -205,10 +491,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-zu_values-zu.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-vi_values-vi.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-zu/values-zu.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-vi/values-vi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -220,7 +506,22 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values_values.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values_values.arsc.flat",
             "map": [
                 {
                     "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values/values.xml",
@@ -261,7 +562,7 @@
                     }
                 },
                 {
-                    "source": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -282,248 +583,7 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-gu_values-gu.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-gu/values-gu.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-pa_values-pa.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-pa/values-pa.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-bg_values-bg.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-bg/values-bg.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-kk_values-kk.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-kk/values-kk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-sv_values-sv.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-sv/values-sv.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-de_values-de.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-de/values-de.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-pt-rBR_values-pt-rBR.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-pt-rBR/values-pt-rBR.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-lv_values-lv.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-lv/values-lv.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-zh-rCN_values-zh-rCN.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-zh-rCN/values-zh-rCN.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-is_values-is.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-is/values-is.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-sr_values-sr.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-sr/values-sr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-ms_values-ms.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ms/values-ms.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-v21_values-v21.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-v21/values-v21.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,173,237,304,368,484,610,736,864,1036",
-                        "endLines": "2,3,4,5,6,7,8,9,12,17",
-                        "endColumns": "117,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "168,232,299,363,479,605,731,859,1031,1383"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-be_values-be.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-be/values-be.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-en-rCA_values-en-rCA.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-en-rCA/values-en-rCA.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-hi_values-hi.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-hi/values-hi.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-hu_values-hu.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-hu_values-hu.arsc.flat",
             "map": [
                 {
                     "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-hu/values-hu.xml",
@@ -538,10 +598,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-ca_values-ca.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-is_values-is.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ca/values-ca.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-is/values-is.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -553,322 +613,7 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-en-rGB_values-en-rGB.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-en-rGB/values-en-rGB.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-en-rXC_values-en-rXC.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-en-rXC/values-en-rXC.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "203",
-                        "endOffsets": "254"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-tr_values-tr.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-tr/values-tr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-vi_values-vi.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-vi/values-vi.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-et_values-et.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-et/values-et.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-en-rIN_values-en-rIN.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-en-rIN/values-en-rIN.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-da_values-da.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-da/values-da.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-fr_values-fr.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-fr/values-fr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-kn_values-kn.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-kn/values-kn.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-uk_values-uk.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-uk/values-uk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-ml_values-ml.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ml/values-ml.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-ne_values-ne.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ne/values-ne.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-ta_values-ta.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ta/values-ta.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-hy_values-hy.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-hy/values-hy.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-v16_values-v16.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-ka_values-ka.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ka/values-ka.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-sl_values-sl.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-sl/values-sl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-en-rAU_values-en-rAU.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-en-rAU/values-en-rAU.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-pt_values-pt.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-pt/values-pt.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-es-rUS_values-es-rUS.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-es-rUS/values-es-rUS.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-zh-rTW/values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-sw_values-sw.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-sw_values-sw.arsc.flat",
             "map": [
                 {
                     "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-sw/values-sw.xml",
@@ -883,7 +628,37 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-in_values-in.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-in_values-in.arsc.flat",
             "map": [
                 {
                     "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-in/values-in.xml",
@@ -898,10 +673,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-iw_values-iw.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-ca_values-ca.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-iw/values-iw.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ca/values-ca.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -913,10 +688,25 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-ja_values-ja.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-v16_values-v16.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ja/values-ja.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-gu/values-gu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -928,10 +718,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-pa_values-pa.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-pa/values-pa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -943,10 +733,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-lo_values-lo.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-et_values-et.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-lo/values-lo.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-et/values-et.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -958,10 +748,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-hr_values-hr.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-fr_values-fr.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-hr/values-hr.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -973,10 +763,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-en-rCA_values-en-rCA.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-fr-rCA/values-fr-rCA.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -988,97 +778,7 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-pt-rPT_values-pt-rPT.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-pt-rPT/values-pt-rPT.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-th_values-th.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-th/values-th.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-as_values-as.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-as/values-as.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-fi_values-fi.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-fi/values-fi.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-az_values-az.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-az/values-az.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-bs_values-bs.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-bs/values-bs.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-uz_values-uz.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-uz_values-uz.arsc.flat",
             "map": [
                 {
                     "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-uz/values-uz.xml",
@@ -1093,7 +793,7 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-nb_values-nb.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-nb_values-nb.arsc.flat",
             "map": [
                 {
                     "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-nb/values-nb.xml",
@@ -1108,10 +808,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-mk_values-mk.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-ja_values-ja.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-mk/values-mk.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ja/values-ja.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1123,10 +823,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-si_values-si.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-fi_values-fi.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-si/values-si.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-fi/values-fi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1138,10 +838,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-gl_values-gl.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-hy_values-hy.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-gl/values-gl.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-hy/values-hy.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1153,82 +853,7 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-ky_values-ky.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ky/values-ky.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-te_values-te.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-te/values-te.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-ru_values-ru.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ru/values-ru.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-bn_values-bn.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-bn/values-bn.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-or_values-or.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-or_values-or.arsc.flat",
             "map": [
                 {
                     "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-or/values-or.xml",
@@ -1243,10 +868,10 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-sq_values-sq.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-as_values-as.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-sq/values-sq.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-as/values-as.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1258,7 +883,52 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-ko_values-ko.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-th/values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-ko_values-ko.arsc.flat",
             "map": [
                 {
                     "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ko/values-ko.xml",
@@ -1273,82 +943,7 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-cs_values-cs.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-cs/values-cs.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-af_values-af.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-af/values-af.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-it_values-it.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-it/values-it.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-lt_values-lt.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-lt/values-lt.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-km_values-km.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-km/values-km.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-tl_values-tl.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-tl_values-tl.arsc.flat",
             "map": [
                 {
                     "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-tl/values-tl.xml",
@@ -1363,7 +958,157 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-mr_values-mr.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-mr_values-mr.arsc.flat",
             "map": [
                 {
                     "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-mr/values-mr.xml",
@@ -1378,10 +1123,265 @@
             ]
         },
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/merged_res/debug/values-es_values-es.arsc.flat",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-es/values-es.xml",
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-te/values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-bn/values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-es-rUS/values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/merged_res/debug/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-sv/values-sv.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

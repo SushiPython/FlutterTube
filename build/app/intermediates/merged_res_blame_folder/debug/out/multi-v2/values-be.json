@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
             "map": [
                 {
                     "source": "/Users/sushi/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-be/values-be.xml",

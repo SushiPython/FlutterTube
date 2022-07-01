@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/sushi/Desktop/Code/fluttertube/fluttertube/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

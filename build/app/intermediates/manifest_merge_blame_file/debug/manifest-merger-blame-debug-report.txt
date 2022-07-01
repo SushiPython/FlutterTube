@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/sushi/Desktop/Code/fluttertube/fluttertube/android/app/src/debug/AndroidManifest.xml:7:5-66
-15-->/Users/sushi/Desktop/Code/fluttertube/fluttertube/android/app/src/debug/AndroidManifest.xml:7:22-64
+15-->/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/android/app/src/debug/AndroidManifest.xml:7:5-66
+15-->/Users/sushi/Documents/GitHub/fluttertube/FlutterTube/android/app/src/debug/AndroidManifest.xml:7:22-64
 16
 17    <application
 18        android:name="android.app.Application"
